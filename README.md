@@ -12,7 +12,7 @@ This is a simple TODO app that allows users to add, edit, and delete tasks. The 
 - **HTML**: Markup for the structure.
 - **CSS**: Styling for the app's UI.
 - **JavaScript**: Handles functionality such as adding, editing, and deleting tasks.
-- **Bootstrap**: For responsive and modern UI components.
+
 
 ## Instructions
 
